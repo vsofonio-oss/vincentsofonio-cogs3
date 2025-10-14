@@ -1,0 +1,31 @@
+body {
+  background-color: #101820;
+}
+h3 {
+  color: #FEE715;
+}
+h2 {
+  color: #FEE715;
+}
+h4 {
+  color: #FEE715;
+}
+dd {
+  color: #F9E795;
+}
+th {
+  color: #b5a044;
+}
+td.time {
+  color: #b5a044;
+}
+td {
+  color: #F9E795;
+}
+a:link, a:visited {
+  color: #E1AD01;
+  text-align: center;
+}
+a:hover, a:active {
+  background-color: red;
+}
